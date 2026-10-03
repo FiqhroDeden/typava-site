@@ -11,3 +11,7 @@ GitHub Pages melayani root branch `main`. Repo ini juga menjadi kanal feedback d
 Early Preview v0.1.0-preview.1 tersedia di https://github.com/FiqhroDeden/typava-site/releases/tag/v0.1.0-preview.1. DMG ditandatangani Developer ID, notarization Accepted, tiket sudah dipasang, dan Gatekeeper menerima paket. Unduhan publik tanpa autentikasi telah dicocokkan dengan SHA256SUMS.txt pada rilis. CTA terhubung langsung ke DMG.
 
 Demo di halaman adalah ilustrasi, bukan layanan terjemahan. Situs tidak memuat analytics, pelacak, font eksternal, atau form pengumpul data.
+
+## Pembaruan MVP 0.2.0 (belum dipublikasikan)
+
+Branch ini memperjelas masalah discovery input source preview dan status verifikasi MVP. Tidak mengganti link installer, tidak mengklaim Chrome/WhatsApp/Notes atau AI sudah berfungsi pada unduhan publik. Perubahan situs menunggu tinjauan; paket 0.2.0 hanya boleh dipublikasikan setelah persetujuan versi dan hash final.
